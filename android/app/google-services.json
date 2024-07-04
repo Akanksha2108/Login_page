@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3090948770",
+    "project_id": "empirical-radio-417719",
+    "storage_bucket": "empirical-radio-417719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3090948770:android:4f70268372684381caadfb",
+        "android_client_info": {
+          "package_name": "com.clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdrS6pn-hBGgF_11yUmT-E7DtH73K8Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
